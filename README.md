@@ -1,4 +1,2 @@
 # NotifyMe2
-alarm appa(with some problem)
-i'm developing the app but it has some problem 
-i need your contribution
+This is a small notifer app developed during my graduation.
